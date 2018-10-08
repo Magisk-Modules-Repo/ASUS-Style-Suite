@@ -1,8 +1,8 @@
-<p align="center">ASUS Style Suite</p>
+<h3 align="center">ASUS Style Suite</p>
   
 <p align="center"><img src="https://image.ibb.co/f213yp/asus_logo.jpg"></p>
 
-<p align="center">Hello</p>
+<h3 align="center">Hello</p>
 
 <p align="center">
  <a href="https://forum.xda-developers.com/apps/magisk/module-asus-style-suite-magisk-t3851591"><img src="https://img.shields.io/badge/XDA-Thread-yellow.svg?longCache=true&style=flat-square"></a><br />
@@ -24,6 +24,9 @@
 - 5 minutes of your time
 - (download, install, reboot and set the wallpaper take too much of your time? REALLY ? )
     This should works on any Android Device
+
+### Updates
+- v2 - AsusCamera app and 2 props added
 
 ## Source
 * [Github](https://github.com/xerta555/ASUS-Style-Suite/releases/download/v1/ASUS-Style-Suite.zip "Source")
