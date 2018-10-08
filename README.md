@@ -8,7 +8,7 @@
  <a href="https://forum.xda-developers.com/apps/magisk/module-asus-style-suite-magisk-t3851591"><img src="https://img.shields.io/badge/XDA-Thread-yellow.svg?longCache=true&style=flat-square"></a><br />
 
 ## There is a simple module that contain:
-Wallpapers from ASUS for their Android phones
+- Wallpapers from ASUS for their Android phones
 - ASUS ROG Phone Live Wallpaper app
 - ASUS ROG Phone Theme app
 </p>
