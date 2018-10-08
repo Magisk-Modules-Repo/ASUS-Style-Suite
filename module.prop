@@ -1,7 +1,7 @@
 id=ASUS-Style-Suite
 name=ASUS Style Suite 
-version=v1
-versionCode=1
+version=v2
+versionCode=2
 author=Rom, all credits to linuxct
 description=ROG Phone Apps Ports - Live Wallpaper + Camera ported for Magisk
 minMagisk=17000
