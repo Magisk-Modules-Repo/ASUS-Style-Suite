@@ -1,0 +1,10 @@
+<permissions>
+  <privapp-permissions package="com.amax.livewallpaper.gamemodelivewallpaper">
+	<permission name="android.permission.UPDATE_CONFIG"/>
+	<permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+	<permission name="android.permission.INTERACT_ACROSS_USERS"/>
+	<permission name="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE"/>
+	<permission name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+	<permission name="android.permission.NOTIFICATION_POLICY_ACCESS_SETTINGS" />
+  </privapp-permissions>
+</permissions>
