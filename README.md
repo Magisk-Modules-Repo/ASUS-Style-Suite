@@ -1,7 +1,28 @@
-# Magisk Module Template
+<p align="center">
+<b> ASUS Style Suite </b><br>
+  <img src="https://image.ibb.co/f213yp/asus_logo.jpg">
+</p>
 
-**Update `README.md` if you want to submit your module to the online repo!** This `README.md` will be shown in a Webview dialog when a user taps your module in Magisk Manager, so make sure to place some information / changelog / notes here.
+<p align="center">Hello</p>
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
 
-For more information about modules and repos, please check the [official documentation](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+
+<p align="center">There is a simple module that contain:
+Wallpapers from ASUS for their Android phones
+- ASUS ROG Phone Live Wallpaper app
+- ASUS ROG Phone Theme app
+</p>
+
+
+All credit @linuxct for having shared the ASUS suite tools (original XDA thread).
+This module is just a portage of that.
+
+<p align="center">Compatibility:</p>
+- Magisk (last stable version at least)
+- An Android phone (oh really ? )
+- 5 minutes of your time
+- (download, install, reboot and set the wallpaper take too much of your time? REALLY ? )
+    This should works on any Android Device
+
+<p align="center">Enjoy
+Download link: https://github.com/xerta555/ASUS-Style-Suite/releases/download/v1/ASUS-Style-Suite.zip</p>
